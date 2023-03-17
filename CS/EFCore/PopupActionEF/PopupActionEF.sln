@@ -3,12 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PopupActionEF.Module", "PopupActionEF.Module\PopupActionEF.Module.csproj", "{D6F40324-9E88-40D3-BE5D-FA4F64D03891}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PopupActionEF.Blazor.Server", "PopupActionEF.Blazor.Server\PopupActionEF.Blazor.Server.csproj", "{C2BE56CA-0AAF-4198-89F4-DB53B326FD24}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PopupActionEF.Win", "PopupActionEF.Win\PopupActionEF.Win.csproj", "{1233F107-F284-4164-939B-C5E91F4B66E3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PopupActionEF.Blazor.Server", "PopupActionEF.Blazor.Server\PopupActionEF.Blazor.Server.csproj", "{C2BE56CA-0AAF-4198-89F4-DB53B326FD24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PopupActionEF.Module", "PopupActionEF.Module\PopupActionEF.Module.csproj", "{D6F40324-9E88-40D3-BE5D-FA4F64D03891}"
 EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
