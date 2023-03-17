@@ -6,7 +6,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* **[PopupListViewController.cs](./CS/WinSolution.Module.Win/PopupListViewController.cs) (VB: [PopupListViewController.vb](./VB/WinSolution.Module.Win/PopupListViewController.vb))**
+* **[PopupListViewController.cs](./CS/EFCore/PopupActionEF/PopupActionEF.Module/Controllers/PopupListViewController.cs)**
 <!-- default file list end -->
 # How to add custom buttons ( Actions ) to the lookup and popup windows?
 
