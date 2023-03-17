@@ -6,7 +6,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* **[PopupListViewController.cs](./CS/WinSolution.Module.Win/PopupListViewController.cs) (VB: [PopupListViewController.vb](./VB/WinSolution.Module.Win/PopupListViewController.vb))**
+* **[PopupListViewController.cs](./CS/EFCore/PopupActionEF/PopupActionEF.Module/Controllers/PopupListViewController.cs)**
 <!-- default file list end -->
 # How to add custom buttons ( Actions ) to the lookup and popup windows?
 
@@ -16,4 +16,6 @@ This example demonstrates how to add an action to open a selected object directl
 
 <br/>
 
+![image](https://user-images.githubusercontent.com/14300209/225921128-c14fc411-d304-4cb8-9d47-2080f2d1ec86.png)
+![image](https://user-images.githubusercontent.com/14300209/225921293-f5c3f810-90e4-4697-bcd6-d711406a6e00.png)
 
