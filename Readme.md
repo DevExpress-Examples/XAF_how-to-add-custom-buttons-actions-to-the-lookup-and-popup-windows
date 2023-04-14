@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# XAF - How to add custom buttons ( Actions ) to the lookup and popup windows
+# XAF - Add Custom Buttons ( Actions ) to Lookup and Popup Windows
 
 You can show custom buttons ([Actions](https://docs.devexpress.com/eXpressAppFramework/112622/ui-construction/controllers-and-actions/actions)) near the **New**, **Clear**, **OK**, and **Cancel** buttons in lookup and popup List Views. For this purpose, create a new View Controller with a [Simple Action](https://docs.devexpress.com/eXpressAppFramework/DevExpress.ExpressApp.Actions.SimpleAction) and set its [`Category`](https://docs.devexpress.com/eXpressAppFramework/DevExpress.ExpressApp.Actions.ActionBase.Category) property to `PopupActions`.
 
