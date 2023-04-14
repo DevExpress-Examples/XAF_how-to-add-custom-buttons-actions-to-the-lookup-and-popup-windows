@@ -25,6 +25,7 @@ Refer to the following topic for more information: [Add Actions to a Pop-up Wind
 * [How to: Reorder an Action Container's Actions Collection](https://docs.devexpress.com/eXpressAppFramework/112815/ui-construction/controllers-and-actions/actions/how-to-reorder-an-action-containers-actions-collection)
 * [How to: Place an Action in a Different Location](https://docs.devexpress.com/eXpressAppFramework/402145/ui-construction/controllers-and-actions/actions/how-to-place-an-action-in-a-different-location)
 * [Action Containers](https://docs.devexpress.com/eXpressAppFramework/112610/ui-construction/action-containers)
+* [Actions](https://docs.devexpress.com/eXpressAppFramework/112622/ui-construction/controllers-and-actions/actions)
 
 ## More Examples
 
