@@ -10,7 +10,6 @@ This example adds a new **Action In Popup** button to popup/lookup windows. Clic
 
 To display a custom button, create a new [ViewController](https://docs.devexpress.com/eXpressAppFramework/DevExpress.ExpressApp.ViewController) with a [Simple Action](https://docs.devexpress.com/eXpressAppFramework/DevExpress.ExpressApp.Actions.SimpleAction) and set its [`Category`](https://docs.devexpress.com/eXpressAppFramework/DevExpress.ExpressApp.Actions.ActionBase.Category) property to `PopupActions`.
 
-This example adds a new **Action In Popup** Action to popup/lookup List Views. When a user clicks this Action, the application displays a sample message box.
 
 Refer to the following topic for more information: [Add Actions to a Pop-up Window](https://docs.devexpress.com/eXpressAppFramework/112804/ui-construction/controllers-and-actions/add-actions-to-a-popup-window).
 
