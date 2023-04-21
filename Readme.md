@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# XAF - Add Custom Buttons ( Actions ) to Lookup and Popup Windows
+# XAF - Add Custom Buttons (Actions) to Lookup and Popup Windows
 
 This example adds a new **Action In Popup** button to popup/lookup windows. Click on this button invokes a custom [Action](https://docs.devexpress.com/eXpressAppFramework/112622/ui-construction/controllers-and-actions/actions) (display a sample message box). 
 
