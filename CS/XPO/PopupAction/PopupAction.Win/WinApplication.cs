@@ -14,7 +14,6 @@ public class PopupActionWindowsFormsApplication : WinApplication {
 		SplashScreen = new DXSplashScreen(typeof(XafSplashScreen), new DefaultOverlayFormOptions());
         ApplicationName = "PopupAction";
         CheckCompatibilityType = DevExpress.ExpressApp.CheckCompatibilityType.DatabaseSchema;
-        UseOldTemplates = false;
         DatabaseVersionMismatch += PopupActionWindowsFormsApplication_DatabaseVersionMismatch;
         CustomizeLanguagesList += PopupActionWindowsFormsApplication_CustomizeLanguagesList;
     }
